@@ -22,4 +22,5 @@ Open data URL - https://data.cityofnewyork.us/Environment/2015-Street-Tree-Censu
 
 
 - Run
-```python3 Main.py
+   ```bash
+   python3 Main.py
